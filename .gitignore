@@ -19,7 +19,6 @@ _book/**
 _site/**
 coverage
 .nyc_output
-dist
 es
 lib
 _book
